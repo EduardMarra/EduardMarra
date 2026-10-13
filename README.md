@@ -14,5 +14,5 @@ Atualmente, concentro meus estudos na criação de aplicações e automação[ci
 - Aplicações construídas em meetups e workshops de tecnologia.
 
 #### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/maria-eduarda-marra-809025309)[cite: 1]
+- [LinkedIn](https://www.linkedin.com/in/maria-eduarda-marra-809025309)
 - E-mail: mariaeduardamarra@gmail.com
