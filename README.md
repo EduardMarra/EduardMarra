@@ -4,13 +4,13 @@ Sou estudante de Engenharia de Software no Centro Universitário Eniac e busco m
 
 #### 💻 Tecnologias e Ferramentas
 - **Linguagens web & Scripts:** Python, HTML, CSS, JavaScript
-- **Infraestrutura & Suporte:** Active Directory (AD), Microsoft 365, Google Workspace, Redes[cite: 2]
-- **Fundamentos:** Programação Orientada a Objetos (POO)[cite: 2]
+- **Infraestrutura & Suporte:** Active Directory (AD), Microsoft 365, Google Workspace, Redes.
+- **Fundamentos:** Programação Orientada a Objetos (POO).
 
 #### 🚀 O que estou estudando e construindo
-Atualmente, concentro meus estudos na criação de aplicações e automação[cite: 2]. Este espaço logo será preenchido com:
+Atualmente, concentro meus estudos na criação de aplicações e automação. Este espaço logo será preenchido com:
 - Projetos desenvolvidos na faculdade e em bootcamps da Digital Innovation One.
-- Exercícios práticos de modelagem de Banco de Dados e POO da Fundação Bradesco[cite: 2].
+- Exercícios práticos de modelagem de Banco de Dados e POO da Fundação Bradesco.
 - Aplicações construídas em meetups e workshops de tecnologia.
 
 #### 📫 Como me encontrar
